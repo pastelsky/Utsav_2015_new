@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/libs/FoldableLayout/FoldableLayout.iml" filepath="$PROJECT_DIR$/libs/FoldableLayout/FoldableLayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Utsav_2015.iml" filepath="$PROJECT_DIR$/Utsav_2015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/FoldableLayout/FoldableLayout.iml" filepath="$PROJECT_DIR$/libs/FoldableLayout/FoldableLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utsav_2015_new.iml" filepath="$PROJECT_DIR$/Utsav_2015_new.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/libs/libs.iml" filepath="$PROJECT_DIR$/libs/libs.iml" />
     </modules>
